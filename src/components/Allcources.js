@@ -8,6 +8,10 @@ const Allcources = () => {
     { title: "Django course", description: "This is Django course" },
     { title: "PHP course", description: "This is PHP course" },
     { title: "RUBY course", description: "This is RUBY course" },
+    { title: "Phyton course", description: "This is Phyton course" },
+    { title: "Django course", description: "This is Django course" },
+    { title: "RUBY course", description: "This is RUBY course" },
+    { title: "Django course", description: "This is Django course" },
   ]);
 
   return (

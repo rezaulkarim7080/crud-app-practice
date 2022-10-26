@@ -8,9 +8,10 @@ const Addcourse = () => {
   return (
     <div>
       <Container>
-        <h1 style={{ textAlign: "center", color: "orange" }}>Add Course Details</h1>
+        <h1 style={{ textAlign: "center", color: "green" }}>Add Course Details</h1>
         <form style={{ border: "1px solid gray", padding: "10px", margin: "5px", backgroundColor: "rgb(243, 243, 243)" }}>
           <p>Course Id</p>
+
           <input style={btnStyle} type="text" name="id" placeholder="Your ID" />
           <p>Course Title</p>
           <input style={btnStyle} type="text" name="name" placeholder="course-title" />
